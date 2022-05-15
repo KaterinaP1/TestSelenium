@@ -33,7 +33,6 @@ public class Main {
 
         driver.close();
 
-
         File folder = new File(System.getProperty("user.dir"));
 
         File[] listOfFiles = folder.listFiles();
